@@ -1,0 +1,6 @@
+def house_footage(x,y):
+    return(f"The square footage of your house is {x*y}")
+    
+def circ(r):
+    from math import pi
+    return(f"The circuference of your circle is {pi*r**2}")
